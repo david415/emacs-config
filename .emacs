@@ -41,8 +41,8 @@
 (add-to-list 'load-path "/home/human/.emacs.d/")
 
 ;; Golang
-; (add-to-list 'load-path "/home/amnesia/Persistent/.emacs.d/go-mode.el")
-; (require 'go-mode-load)
+(add-to-list 'load-path "/home/human/Persistent/.emacs.d/go-mode.el")
+(require 'go-mode-load)
 
 ;; JSON
 ;(load "/home/human/.emacs.d/json-mode.el")
