@@ -84,3 +84,5 @@
  )
 
 (load-theme 'xoria)
+;; (global-hl-line-mode 1)
+(set-face-attribute 'region nil :background "#444" :foreground "#ffffff")
